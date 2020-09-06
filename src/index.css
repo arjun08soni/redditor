@@ -5,9 +5,100 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background-color: black;
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+.container{
+  width: 90%;
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(20em, 1fr));
+    grid-template-rows: auto;
+}
+
+figure{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-self: center;
+  align-content: center;
+  justify-items: center;
+  padding: 30px;
+  background-color: rgb(144, 145, 144);
+  box-sizing: border-box;
+  border-radius: 10px;
+}
+
+img{
+  margin: 10px;
+}
+
+figcaption{
+  background-color: black;
+  color: aqua;
+  border-radius: 7px;
+  padding: 1em 1em;
+}
+
+a{
+  text-decoration:none;
+}
+
+.headbanner{
+  color: aqua;
+  grid-column: auto;
+  justify-self: center;
+  font-size: 2em;
+}
+span{
+  color: chocolate;
+}
+.formcontainer{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 2em;
+}
+
+/* input{
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+} */
+
+input[type=text] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  font-size: 1.4em;
+  font-family: 'Prompt', sans-serif;
+  font-weight: 400 ;
+  font-style: italic;
+}
+
+input[type=text]:focus {
+  border: 3px solid #555;
+}
+
+input[type=submit]{
+  width: 100%;
+  height: 2.5em;
+  margin: 8px 0;
+  background-color: #cf4c0f;
+  border: none;
+  color: white;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+  font-size: 1.3em;
+  font-family: 'Prompt', sans-serif;
+  text-transform: uppercase;
+  font-weight: 400;
 }
