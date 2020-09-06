@@ -53,7 +53,7 @@ class ReactReddit extends React.Component{
   render(){
     const {data_reddit,error}=this.state;
     if (error) {
-      return <h1><span>/r/</span>{this.state.sub} doesn't exist..</h1>
+      return <h2 className='headbanner'><span>/r/</span>{this.state.sub} doesn't exist..</h2>
     }
     return(
       <div>
