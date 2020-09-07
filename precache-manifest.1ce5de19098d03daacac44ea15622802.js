@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2aef4d539c4984198a0b4c1652ff4d3f",
+    "revision": "a2492febac170645a3dc63e6a63134b4",
     "url": "/redditor/index.html"
   },
   {
-    "revision": "ab5a67021f4b039c94ae",
-    "url": "/redditor/static/css/main.5172d840.chunk.css"
+    "revision": "c9cadc71fff9856214e3",
+    "url": "/redditor/static/css/main.5144344d.chunk.css"
   },
   {
     "revision": "8509cd61755d5fa6a734",
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/redditor/static/js/2.4bbcc0ff.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "ab5a67021f4b039c94ae",
-    "url": "/redditor/static/js/main.7653e6e2.chunk.js"
+    "revision": "c9cadc71fff9856214e3",
+    "url": "/redditor/static/js/main.50291a25.chunk.js"
   },
   {
     "revision": "7403b5624f1bd8fa4dfe",

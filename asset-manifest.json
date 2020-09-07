@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/redditor/static/css/main.5172d840.chunk.css",
-    "main.js": "/redditor/static/js/main.7653e6e2.chunk.js",
-    "main.js.map": "/redditor/static/js/main.7653e6e2.chunk.js.map",
+    "main.css": "/redditor/static/css/main.5144344d.chunk.css",
+    "main.js": "/redditor/static/js/main.50291a25.chunk.js",
+    "main.js.map": "/redditor/static/js/main.50291a25.chunk.js.map",
     "runtime-main.js": "/redditor/static/js/runtime-main.d15c973d.js",
     "runtime-main.js.map": "/redditor/static/js/runtime-main.d15c973d.js.map",
     "static/js/2.4bbcc0ff.chunk.js": "/redditor/static/js/2.4bbcc0ff.chunk.js",
     "static/js/2.4bbcc0ff.chunk.js.map": "/redditor/static/js/2.4bbcc0ff.chunk.js.map",
     "index.html": "/redditor/index.html",
-    "precache-manifest.209ae7d0c303ecf30714633befdc16fb.js": "/redditor/precache-manifest.209ae7d0c303ecf30714633befdc16fb.js",
+    "precache-manifest.1ce5de19098d03daacac44ea15622802.js": "/redditor/precache-manifest.1ce5de19098d03daacac44ea15622802.js",
     "service-worker.js": "/redditor/service-worker.js",
-    "static/css/main.5172d840.chunk.css.map": "/redditor/static/css/main.5172d840.chunk.css.map",
+    "static/css/main.5144344d.chunk.css.map": "/redditor/static/css/main.5144344d.chunk.css.map",
     "static/js/2.4bbcc0ff.chunk.js.LICENSE.txt": "/redditor/static/js/2.4bbcc0ff.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.d15c973d.js",
     "static/js/2.4bbcc0ff.chunk.js",
-    "static/css/main.5172d840.chunk.css",
-    "static/js/main.7653e6e2.chunk.js"
+    "static/css/main.5144344d.chunk.css",
+    "static/js/main.50291a25.chunk.js"
   ]
 }

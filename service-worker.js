@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/redditor/precache-manifest.209ae7d0c303ecf30714633befdc16fb.js"
+  "/redditor/precache-manifest.1ce5de19098d03daacac44ea15622802.js"
 );
 
 self.addEventListener('message', (event) => {
